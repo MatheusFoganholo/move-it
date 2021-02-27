@@ -3,6 +3,8 @@
 This is a simple project, created during "Next Level Week #4 by @Rocketseat". It is an application based on the pomodoro method for study. After completing the 25-minute cycle, you must take a challenge to help your body and eyes. Upon completing the challenges, you gain experience and can level up. <br/>
 <strong>Note:</strong> this is a desktop application that is not responsive, that is, it will only work properly on large monitors.<br/>
 
+![image](https://user-images.githubusercontent.com/56047758/109396943-dbdd0780-7912-11eb-9a22-4ef347f685a4.png)
+
 To test the application on the web, click <a href="https://move-it-kappa-lime.vercel.app" target="_blank">here</a>.<br/>
 
 To use and test the application locally, you must initially clone / download it. <br/>
