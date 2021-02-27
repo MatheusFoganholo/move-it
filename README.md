@@ -3,7 +3,7 @@
 This is a simple project, created during "Next Level Week #5 by @Rocketseat". It is an application based on the pomodoro method for study. After completing the 25-minute cycle, you must take a challenge to help your body and eyes. Upon completing the challenges, you gain experience and can level up. <br/>
 <strong>Note:</strong> this is a desktop application that is not responsive, that is, it will only work properly on large monitors.<br/>
 
-To test the application on the web, click <a href="https://move-it-kappa-lime.vercel.app">here</a>.<br/>
+To test the application on the web, click <a href="https://move-it-kappa-lime.vercel.app" target="_blank">here</a>.<br/>
 
 To use and test the application locally, you must initially clone / download it. <br/>
 After that you must open the terminal in the root folder of the application by typing:
@@ -51,7 +51,7 @@ Hope you like it! Any criticism or suggestion is welcome!
 Este é um projeto simples, criado durante a "Next Level Week #5 da @Rocketseat". Trata-se de uma aplicação baseada no método de pomodoro para estudo. Após completar o ciclo de 25 minutos, você deve realizar um desafio para auxiliar na saúde do corpo e dos olhos. Ao completar os desafios, você ganha experiência e poderá subir de nível.<br/>
 <strong>Observação:</strong> essa é uma aplicação desktop que não é responsiva, ou seja, só funcionará adequadamente em monitores grandes.<br/>
 
-Para testar a aplicação na web, clique <a href="https://move-it-kappa-lime.vercel.app">aqui</a>.
+Para testar a aplicação na web, clique <a href="https://move-it-kappa-lime.vercel.app" target="_blank">aqui</a>.
 
 Para utilizar e testar a aplicação localmente, você deve inicialmente cloná-la/baixá-la.<br/>
 Após isso você deve abrir o terminal na pasta raiz da aplicação digitando:
