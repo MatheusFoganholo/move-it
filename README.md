@@ -36,14 +36,12 @@ Or:
 yarn dev
 ```
 
-<br/>
 Ready! The application will be running on the port:
 
 ```
 http://localhost:3000/
 ```
 
-<br/>
 Hope you like it! Any criticism or suggestion is welcome!
 
 <hr>
@@ -86,12 +84,10 @@ Ou:
 yarn dev
 ```
 
-<br/>
 Pronto! A aplicação estará sendo executada na porta:
 
 ```
 http://localhost:3000/
 ```
 
-<br/>
 Espero que gostem! Qualquer crítica ou sugestão é bem vinda!
