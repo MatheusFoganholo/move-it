@@ -9,7 +9,7 @@ To use and test the application locally, you must initially clone / download it.
 After that you must open the terminal in the root folder of the application by typing:
 
 ```
-cd move-it
+cd move-it-master
 ```
 
 After that, you will have to install the project's dependencies, using the following command:
@@ -27,7 +27,7 @@ yarn install
 Then, we will start the application to run it locally, by typing:
 
 ```
-npm dev
+npm run dev
 ```
 
 Or:
@@ -57,7 +57,7 @@ Para utilizar e testar a aplicação localmente, você deve inicialmente cloná-
 Após isso você deve abrir o terminal na pasta raiz da aplicação digitando:
 
 ```
-cd move-it
+cd move-it-master
 ```
 
 Após isso, você terá que instalar as dependências do projeto, utilizando o seguinte comando:
@@ -75,7 +75,7 @@ yarn install
 Em seguida, iremos iniciar a aplicação para rodá-la localmente, digitando:
 
 ```
-npm dev
+npm run dev
 ```
 
 Ou:
